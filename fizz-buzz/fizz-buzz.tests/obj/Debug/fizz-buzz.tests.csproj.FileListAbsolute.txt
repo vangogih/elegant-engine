@@ -1,0 +1,17 @@
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\fizz_buzz.tests.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\fizz_buzz.tests.pdb
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\Castle.Core.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\fizz_buzz.exe
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\NSubstitute.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\nunit.framework.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\fizz_buzz.pdb
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\Castle.Core.xml
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\NSubstitute.xml
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\bin\Debug\nunit.framework.xml
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\obj\Debug\fizz-buzz.tests.csprojAssemblyReference.cache
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\obj\Debug\fizz-buzz.tests.csproj.CoreCompileInputs.cache
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\obj\Debug\fizz-buzz.tests.csproj.CopyComplete
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\obj\Debug\fizz_buzz.tests.dll
+W:\Projects\Rider\fizz-buzz\fizz-buzz.tests\obj\Debug\fizz_buzz.tests.pdb

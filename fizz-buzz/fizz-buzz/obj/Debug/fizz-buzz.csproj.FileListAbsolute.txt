@@ -1,0 +1,6 @@
+W:\Projects\Rider\fizz-buzz\fizz-buzz\bin\Debug\fizz_buzz.exe
+W:\Projects\Rider\fizz-buzz\fizz-buzz\bin\Debug\fizz_buzz.pdb
+W:\Projects\Rider\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csprojAssemblyReference.cache
+W:\Projects\Rider\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csproj.CoreCompileInputs.cache
+W:\Projects\Rider\fizz-buzz\fizz-buzz\obj\Debug\fizz_buzz.exe
+W:\Projects\Rider\fizz-buzz\fizz-buzz\obj\Debug\fizz_buzz.pdb
